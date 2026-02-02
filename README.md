@@ -24,5 +24,8 @@ This project is not affiliated with or endorsed by Mojang or Microsoft.
 
 Users are responsible for owning a valid Minecraft license.
 
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
+Commercial use is not allowed.
+
 
 
