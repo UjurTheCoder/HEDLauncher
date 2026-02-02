@@ -27,5 +27,14 @@ Users are responsible for owning a valid Minecraft license.
 This project is licensed under the PolyForm Noncommercial License 1.0.0.
 Commercial use is not allowed.
 
+## Installation
+
+1. Download the latest release (.exe)
+2. Run the installer
+3. Choose an install folder
+4. Launch and play
+
+No Java installation required.
+All dependencies are bundled inside the executable.
 
 
